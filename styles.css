@@ -121,7 +121,8 @@ a {
     padding-top: 200px;
     align-items: center;
     gap: 70px;
-    font-size: 40px;
+    font-size: 20px;
+    flex-wrap: wrap;
   }
 }
 
