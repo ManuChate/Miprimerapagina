@@ -86,7 +86,7 @@ a {
 }
 
 .button-menu-toggle {
-  display: none;
+  display: flex;
 }
 
 @media (max-width: 768px) {
