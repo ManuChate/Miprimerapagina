@@ -6,7 +6,6 @@ document.querySelector("button.button-menu-toggle")
       classList.toggle("nav-links-responsive")
   })
 
-
 const form = document.getElementById('myForm');
 form.addEventListener('submit', function (event) {
   event.preventDefault();
