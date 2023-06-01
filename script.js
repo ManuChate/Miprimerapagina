@@ -1,5 +1,6 @@
 function showAlert() { alert("Hola internauta"); }
 
+
 const form = document.getElementById('myForm');
 form.addEventListener('submit', function (event) {
   event.preventDefault();
@@ -22,7 +23,7 @@ function validateForm() {
 
 document.querySelector("button.button-menu-toggle")
   .addEventListener("click", function () {
+    console.log("prueba");
     document.querySelector(".nav-links").
       classList.toggle("nav-links-responsive")
   })
-
