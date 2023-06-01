@@ -86,7 +86,7 @@ a {
 }
 
 .button-menu-toggle {
-  display: flex;
+  display: none;
 }
 
 @media (max-width: 768px) {
@@ -95,7 +95,7 @@ a {
   }
 
   .nav-links {
-    display: flex;
+    display: none;
   }
 
   .button-menu-toggle {
