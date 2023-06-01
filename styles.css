@@ -107,6 +107,7 @@ a {
     font-family: monospace;
     font-weight: bold;
     font-size: 20px;
+    max-width: 800px;
   }
 
   .nav-links.nav-links-responsive {
