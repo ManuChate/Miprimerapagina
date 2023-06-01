@@ -95,7 +95,7 @@ a {
   }
 
   .nav-links {
-    display: none;
+    display: flex;
   }
 
   .button-menu-toggle {
